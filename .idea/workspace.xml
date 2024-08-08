@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8313b96b-6c73-479f-8147-addb77f6b36c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/max/demo/ExampleMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/max/home/Door.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/max/home/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/max/home/PlayGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/max/home/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/max/seminar/Card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/max/seminar/Casino.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/max/seminar/Deck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/max/seminar/DeckService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/max/seminar/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/max/seminar/Gamer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/max/seminar/PlayGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/max/seminar/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/max/seminar/exception/DeckEmptyException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/max/seminar/type/Ranks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/max/seminar/type/Suits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/max/demo/AbstractTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/max/demo/AssertionsDemoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/max/demo/AssumptionsDemoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/max/demo/ExampleLFDemoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/max/demo/ParametrizedDemoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/max/home/AbstractTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/max/home/GameTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/max/seminar/AbstractTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/max/seminar/DeckServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/max/seminar/DeckTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/max/seminar/GamePlayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/max/seminar/GameTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/data.csv" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/RealisPlay/Avtomatic_1.git",
+    "accountId": "e2953448-98c7-41d8-908e-efc92298dc14"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2kMhMMbPcmhUzkr6xlctqr6NkaX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ExampleMain.executor": "Run",
+    "Application.PlayGame.executor": "Run",
+    "Application.org.max.seminar.PlayGame.executor": "Run",
+    "JUnit.DeckServiceTest.executor": "Run",
+    "JUnit.GameTest.checkRiskLose.executor": "Run",
+    "JUnit.GameTest.checkRiskWin.executor": "Run",
+    "Maven.auto [clean].executor": "Run",
+    "Maven.auto [test].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Realis/Desktop/Vvedenie-v-automatizatsiy-testirovania-lesson1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.GameTest.checkRiskWin">
+    <configuration name="ExampleMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.max.demo.ExampleMain" />
+      <module name="auto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.max.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlayGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.max.home.PlayGame" />
+      <module name="auto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.max.home.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.max.seminar.PlayGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.max.seminar.PlayGame" />
+      <module name="auto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.max.seminar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameTest.checkRiskLose" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="auto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.max.home.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.max.home" />
+      <option name="MAIN_CLASS_NAME" value="org.max.home.GameTest" />
+      <option name="METHOD_NAME" value="checkRiskLose" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameTest.checkRiskWin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="auto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.max.home.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.max.home" />
+      <option name="MAIN_CLASS_NAME" value="org.max.home.GameTest" />
+      <option name="METHOD_NAME" value="checkRiskWin" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.GameTest.checkRiskWin" />
+        <item itemvalue="JUnit.GameTest.checkRiskLose" />
+        <item itemvalue="Application.PlayGame" />
+        <item itemvalue="Application.org.max.seminar.PlayGame" />
+        <item itemvalue="Application.ExampleMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8313b96b-6c73-479f-8147-addb77f6b36c" name="Changes" comment="" />
+      <created>1723099303657</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723099303657</updated>
+      <workItem from="1723099304683" duration="4564000" />
+      <workItem from="1723104780992" duration="307000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
